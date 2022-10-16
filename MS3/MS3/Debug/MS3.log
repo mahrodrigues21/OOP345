@@ -1,0 +1,4 @@
+﻿  LineManager.cpp
+M:\SENECA\202109 - Fall\OOP345.NBB\Project\MS3\MS3\LineManager.cpp(67,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+M:\SENECA\202109 - Fall\OOP345.NBB\Project\MS3\MS3\LineManager.cpp(63,12): warning C4834: discarding return value of function with 'nodiscard' attribute
+  MS3.vcxproj -> M:\SENECA\202109 - Fall\OOP345.NBB\Project\MS3\Debug\MS3.exe
